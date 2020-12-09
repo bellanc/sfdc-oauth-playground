@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>OAuthPlayground</fullName>
-    <apiAccessLevel>Unrestricted</apiAccessLevel>
-    <namespacePrefix>oauthplayground</namespacePrefix>
     <types>
         <members>AuthController</members>
         <members>OAuth</members>
@@ -60,5 +57,5 @@
         <members>OAuthService__c.All</members>
         <name>ListView</name>
     </types>
-    <version>16.0</version>
+    <version>50.0</version>
 </Package>
